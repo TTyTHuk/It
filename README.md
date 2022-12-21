@@ -28,8 +28,8 @@
 
 ### Лабораторная работа №3
 
-1. Настройка сети в Cisco Packet Tracer. [Ссылка](https://github.com/TTyTHuk/It/blob/main/LR3/LR3.pdf) 
-2. Отчёт по лабораторной работе. [Ссылка](https://github.com/TTyTHuk/It/blob/main/LR3/LR3.pkt) 
+1. Настройка сети в Cisco Packet Tracer. [Ссылка](https://github.com/TTyTHuk/It/blob/main/LR3/LR3.pkt) 
+2. Отчёт по лабораторной работе. [Ссылка](https://github.com/TTyTHuk/It/blob/main/LR3/LR3.pdf) 
 
 ### Подготовка к экзамену
 
