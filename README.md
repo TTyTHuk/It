@@ -34,4 +34,5 @@
 ### Подготовка к экзамену
 
 Для подготовки к экзамену был выбран билет [№19](https://github.com/stankin/inet-2022/wiki/exam19)
+
 [Коммиты](https://github.com/stankin/inet-2022/wiki/exam19/_compare/20f0474529d1615bc0d558214b82609890a9df45...60b969e22a7cd7c46e8a4d8e3da283d8ee357a39)
